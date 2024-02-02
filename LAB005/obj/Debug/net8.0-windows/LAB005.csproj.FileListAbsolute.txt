@@ -1,0 +1,17 @@
+D:\Labtest\LAB005\LAB005\bin\Debug\net8.0-windows\LAB005.exe
+D:\Labtest\LAB005\LAB005\bin\Debug\net8.0-windows\LAB005.deps.json
+D:\Labtest\LAB005\LAB005\bin\Debug\net8.0-windows\LAB005.runtimeconfig.json
+D:\Labtest\LAB005\LAB005\bin\Debug\net8.0-windows\LAB005.dll
+D:\Labtest\LAB005\LAB005\bin\Debug\net8.0-windows\LAB005.pdb
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.Form1.resources
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.Properties.Resources.resources
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.csproj.GenerateResource.cache
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.AssemblyInfoInputs.cache
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.AssemblyInfo.cs
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.csproj.CoreCompileInputs.cache
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.dll
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\refint\LAB005.dll
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.pdb
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\LAB005.genruntimeconfig.cache
+D:\Labtest\LAB005\LAB005\obj\Debug\net8.0-windows\ref\LAB005.dll
